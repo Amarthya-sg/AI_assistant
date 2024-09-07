@@ -1,7 +1,5 @@
-Author- Amarthya S George
-
- Voice Assistant in Python
-
+# Voice Assistant in Python
+<br>Author- Amarthya S George</br>
 This project is a simple voice-controlled assistant built using Python. The assistant can recognize your voice commands, respond with spoken words, search Wikipedia, open popular websites, play music, tell the current time and date, and even fetch weather data for a specific city. It also includes functionality to send emails and shutdown on voice command.
 
     Features
