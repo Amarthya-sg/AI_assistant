@@ -47,17 +47,4 @@ All the required Python libraries can be installed using the `requirements.txt` 
 pip install -r requirements.txt
 ```
 
----
-
-    `requirements.txt`
-```
-pyttsx3==2.90
-SpeechRecognition==3.8.1
-wikipedia==1.4.0
-webbrowser
-requests==2.28.1
-smtplib
-pyaudio==0.2.11
-``` 
-
 This list includes the libraries used in the project. Make sure your system has the correct audio drivers for `pyaudio`, as it is required for microphone access.
